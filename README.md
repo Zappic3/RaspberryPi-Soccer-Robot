@@ -7,4 +7,3 @@ controller.py-┃  Erlaubt es den Roboter mithilfe eines X-Box wireless Controll
               ┃  
 motor.py - - -┃  Beinhaltet alle Funktionen, die die Motoren steuern, sodass SSA.py und controller.py diese
               ┃  einfach ansprechen können.
-              
